@@ -1,0 +1,60 @@
+@import url("./_fonts.css");
+
+/* 
+=================
+  Tailwind CSS
+=================
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .dir-ltr {
+    direction: ltr;
+  }
+
+  .dir-rtl {
+    direction: rtl;
+  }
+}
+
+/* 
+=================
+  Global Styles
+=================
+*/
+body {
+  font-family: "DMSans", "Rubik", sans-serif;
+  @apply m-0 font-normal bg-[#F6F3F6];
+}
+
+/* 
+=================
+  Override Style
+=================
+*/
+.rhap_controls-section {
+  @apply flex-none !mr-0;
+}
+
+.rhap_time {
+  @apply text-body-xs text-white;
+}
+
+.rhap_progress-bar {
+  @apply h-[3px];
+}
+
+.rhap_progress-indicator {
+  @apply bg-white shadow-none w-3 h-3 -top-[4px];
+}
+
+.rhap_container svg {
+  @apply text-white;
+}
+
+[data-rmiz-modal-overlay="visible"],
+.ReactModal__Overlay.ReactModal__Overlay--after-open {
+  @apply !bg-[rgba(0,0,0,0.5)];
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "10f3b3e3e6e6f3e3e6e6f3e3",
+    "senderId": {
+      "_id": "60f3b3e3e6e6f3e3e6e6f3e3",
+      "name": "Ammar Yaser",
+      "profilePicture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvcnRyYWl0fGVufDB8fDB8fHww"
+    },
+    "message": "Hello, everyone! ",
+    "attachments": [],
+    "createdAt": "2024-02-29T22:25:00.000Z",
+    "updatedAt": "2024-02-29T22:25:00.000Z"
+  },
+  {
+    "_id": "20f3b3e3e6e6f3e3e6e6f3e3",
+    "senderId": {
+      "_id": "60f3b3e3e6e6f3e3e6e6f3e4",
+      "name": "Laila Omar",
+      "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?dpr=2&h=200&w=120&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cG9ydHJhaXR8ZW58MHx8fHwxNzA5MjI5MzQ2fDA&ixlib=rb-4.0.3"
+    },
+    "message": "Hi there! ",
+    "attachments": [],
+    "createdAt": "2024-02-29T22:26:00.000Z",
+    "updatedAt": "2024-02-29T22:26:00.000Z"
+  },
+  {
+    "_id": "50f3b3e3e6e6f3e3e6e6f3e3",
+    "senderId": {
+      "_id": "60f3b3e3e6e6f3e3e6e8f5a9",
+      "name": "Mohammed Ahmed",
+      "profilePicture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBvcnRyYWl0fGVufDB8fDB8fHww"
+    },
+    "message": "Here's the photo we discussed.",
+    "attachments": [
+      {
+        "fileName": "ppc-report-template.png",
+        "filePath": "https://images.ctfassets.net/dfcvkz6j859j/2iEMtUF83VoeeIJ79tu5v2/0b661b3cc67691be845dcf85b75e892f/ppc-report-template.png",
+        "fileType": "image",
+        "uploadedAt": "2024-02-29T22:30:00.000Z",
+        "_id": "100f3b3e3e6e6f3e3e6e6f3e3"
+      }
+    ],
+    "createdAt": "2024-02-29T22:30:00.000Z",
+    "updatedAt": "2024-02-29T22:30:00.000Z"
+  },
+  {
+    "_id": "50f3b3e3e6e6f3e3e6e6f5345e3",
+    "senderId": {
+      "_id": "60f3b3e3e6e6f3e3e6e6f3e3",
+      "name": "Ammar Yaser",
+      "profilePicture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvcnRyYWl0fGVufDB8fDB8fHww"
+    },
+    "message": "And i come across this video today.",
+    "attachments": [
+      {
+        "fileName": "file_example_MP4_480_1_5MG.mp4",
+        "filePath": "https://dev.dentaldigitalia.com/core/uploads/videos/202402/SampleVideo_1280x720_1mb_1709243071998_520230503.mp4",
+        "fileType": "video",
+        "uploadedAt": "2024-02-29T22:30:00.000Z",
+        "_id": "100f3b3e3e6e6f3e3e6e6f3e3"
+      }
+    ],
+    "createdAt": "2024-02-29T22:30:00.000Z",
+    "updatedAt": "2024-02-29T22:30:00.000Z"
+  },
+  {
+    "_id": "20f3b3e3e6e6f3e3e676sd354f3e3",
+    "senderId": {
+      "_id": "60f3b3e3e6e6f3e3e6e6f3e4",
+      "name": "Laila Omar",
+      "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?dpr=2&h=200&w=120&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cG9ydHJhaXR8ZW58MHx8fHwxNzA5MjI5MzQ2fDA&ixlib=rb-4.0.3"
+    },
+    "message": "Hi there! ",
+    "attachments": [
+      {
+        "fileName": "file_example_MP3_700KB.mp3",
+        "filePath": "https://file-examples.com/storage/fe90abeceb65e0e85a0f042/2017/11/file_example_MP3_700KB.mp3",
+        "fileType": "audio",
+        "uploadedAt": "2024-02-29T22:30:00.000Z",
+        "_id": "100f3b3e3e6e6f3e3e6edd6f3e3"
+      }
+    ],
+    "createdAt": "2024-02-29T22:26:00.000Z",
+    "updatedAt": "2024-02-29T22:26:00.000Z"
+  }
+]
